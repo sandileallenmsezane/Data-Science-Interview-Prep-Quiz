@@ -1,0 +1,119 @@
+Which of the following best describes the principal goal of data science?/To collect and archive exhaustive data sets from various source systems for corporate record keeping uses.,To mine and analyze large amounts of data in order to uncover information that can be used for operational improvements and business gains.,To collect and prepare data for use as part of analytics applications./1/To collect and archive exhaustive data sets from various source systems for corporate record keeping uses.
+
+What is the first step in the data science process?/Collecting data and preparing it for analysis,Experimenting with and tuning different analytical models,Defining an analytical hypothesis that could provide business value./1/Collecting data and preparing it for analysis
+
+What is the primary difference between a data scientist and a data engineer?/A data engineer collects and prepares data, and a data scientist then analyzes it.,A data engineer analyzes data after a data scientist collects and prepares it.,A data engineer builds data pipelines and helps prepare data, while a data scientist is responsible for data collection, preparation and analysis./1/A data engineer collects and prepares data
+
+Which of the following programming languages are most widely used by data scientists?/C and C++,Python, R and SQL,Java and JavaScript/3/ R and SQL
+
+Which of the following analytical and statistical techniques do data scientists commonly use?/Classification,Regression,Clustering,All of the above/4/All of the above
+
+In machine learning, what is the primary difference between supervised and unsupervised learning?/Supervised learning involves data that has been labeled and classified, while unsupervised learning data is unlabeled and unclassified.,Supervised learning is monitored closely by data scientists, while they don't play a role in unsupervised learning.,Supervised learning is only used for image recognition, while unsupervised learning can be used for various analytics applications./2/ while unsupervised learning data is unlabeled and unclassified.
+
+Why is data sampling useful for data scientists?/It lets them analyze data sets in small batches to reduce their use of system resources.,It reduces the amount of data storage space that's required for data science applications.,It enables them to use a representative subset of data to build accurate analytical models more quickly./3/It enables them to use a representative subset of data to build accurate analytical models more quickly.
+
+What is a common maxim about data scientists?/They spend 80% of their time finding and preparing data and 20% analyzing it.,They spend 80% of their time analyzing data and 20% finding and preparing it.,They spend 80% of their time on failed analytics projects and 20% doing useful work./2/They spend 80% of their time analyzing data and 20% finding and preparing it.
+
+IDE stands for...../Integrated Desktop Environment,Integrated Development Environment,Integrated Dual Environment,Internet Development Environment./2/Integrated Development Environment
+
+Which of the following is not an IDE ?/Oracle java studio creator,Eclipse,Intellij IDEA,MS word./4/MS word.
+
+Data scientists typically need a combination of technical skills, nontechnical ones and suitable personality traits to be successful./True,False/1/True
+
+Bias is a common problem in data science applications./True,False/2/False
+
+Raw data should be processed only one time./True,False/2/False
+
+Eggy Data is another name for raw data ?/True,False/1/True
+
+Focus Group interview is a tool for qualitative market research where a group of people are selected and asked about their opinion or perceptions about a particular topic./True,False/2/False
+
+A multi-disciplinary field that uses scientific methods,processes,algorithms and systems to extract knowledge from data is called./A. Data Science,B. Machine learning,C. Computer Science,D. Statistical Research/1/A. Data Science
+
+Which statements are true for Nominal Data/A. Categoriacal data where the data is coded in a manner that it represents a label.,B. Can only count but cannot order or measure nominal data,C. Both,D. None/3/C. Both
+
+A______________ is a list of the observed categories and a count of the number of observations in each./A. Matrix ,B. Frame ,C. Frequency distribution ,D. None/3/C. Frequency distribution 
+
+Which statement is not correct for Exploratory Data Analysis A. Donald Knuth./A. involves graphical displays of data. ,B. involves numerical summaries of data.,C. First step in data analysis ,D. All E. None/1/A. involves graphical displays of data. 
+
+The modern conception of data science as an independent discipline is sometimes attributed to?/A. Donald Knuth. John McCarthy,C. Arthur Samuel,D. Satoshi Nakamoto/1/A. Donald Knuth
+
+Which of the following is false?/A. Subsetting can be used to select and exclude variables and observations,B. Raw data should be processed only one time.,C. Merging concerns combining datasets on the same observations to produce a result with more variables,D. None Of the above/2/B. Raw data should be processed only one time.
+
+Which of the following is not a part of data science process?/A. Discovery,B. Model Planning,C. Communication Building,D. Operationalize/4/D. Operationalize
+
+Which of the following are the Data Sources in data science?/A. Structured,B. UnStructured,C. Both A and B,D. None Of the above/3/C. Both A and B
+
+Which of the following is not a application for data science?/A. Recommendation Systems,B. Image & Speech Recognition,C. Online Price Comparison,D. Privacy Checker/4/D. Privacy Checker
+
+C is known as which of the following level language?/A. Low level,B. High level,C. Machine level,D. Intermediate level /2/B. High level
+
+_______ converts an assembly language program into machine language./A. Assembler,B. Interpreter,C. Compiler,D. All of the above/1/A. Assembler
+
+Errors in a computer program are referred to as..../A. Bugs,B. Mistakes,C. Look overhead,D. Crash/1/A. Bugs
+
+Computer programs are written in a high level programming language; however, the human-readable version of a program is called …………./A. Cache,B. Source code,C. Instruction set,D. Word size/2/B. Source code
+
+This method consists of arranging data by category or labelling data points to the correct data type./A. Class-label the observations,B. Collect raw data and store it on a server,C. Data cleansing,D. Data balancing/3/C. Data cleansing
+
+A Git is revision Control System./True,False/1/True
+
+Discrete Data is the forth member in my FAMILY./True,False/2/False
+
+In machine learning, overfitting occurs when a model learns the training data too well and performs poorly on unseen data./True.,False./1/True
+ 
+What is the purpose of version control systems like Git?/Managing databases,Tracking changes in code,Optimizing website performance,Analyzing user behavior/2/Tracking changes in code
+
+Which of the following is NOT a step in the data science process?/Data collection,Data visualization,Data encryption,Data analysis/3/Data encryption
+
+In object-oriented programming, inheritance allows a class to inherit properties and methods from another class./True,False/1/True
+
+What does SQL stand for?/Structured Question Language,Sequential Query Language,Structured Query Language,Systematic Query Language/3/Structured Query Language
+
+A hash function in cryptography is a one-way function, meaning it cannot be easily reversed to find the input from the output./True,False/1/True
+
+Which of the following is NOT a type of machine learning algorithm?/Supervised learning,Unsupervised learning,Reinforcement learning,Sequential learning./4/Sequential learning
+
+Tregular expressions are used for pattern matching in strings./True,False/1/True
+
+Which data structure is typically used to implement a Last-In-First-Out (LIFO) behavior?/Queue,Stack,Tree Heap/2/Stack
+
+Which of the following is NOT a type of normalization technique used in data preprocessing?/Min-Max Scaling,Standardization,Principal Component Analysis (PCA),Mean Normalization/2/Principal Component Analysis (PCA)
+
+A neural network with multiple hidden layers is called a deep neural network./True,False/1/True
+
+Which of the following is a popular Python library for deep learning?/NumPy,Matplotlib,TensorFlow Pandas/3/TensorFlow Pandas
+
+In Agile software development, the Scrum Master is responsible for managing the product backlog./True,False/2/False
+
+Which of the following is NOT a common type of SQL join/Inner Join,Outer Join,Cross Join,Merge Join/4/Merge Join
+
+The k-nearest neighbors (KNN) algorithm is a supervised learning algorithm used for classification and regression./True,False/1/True
+
+Which of the following is NOT a step in the CRISP-DM (Cross-Industry Standard Process for Data Mining) model?/Data Understanding,Data Cleansing,Data Modeling,Data Deployment./2/Data Cleansing
+
+A primary key in a database table uniquely identifies each record in the table./True,False/1/True
+
+Which of the following data structures is typically used to implement priority queues/Linked List,Stack,Queue,Heap/4/Heap
+
+A decision tree is a supervised learning algorithm used for both classification and regression tasks./True,False/1/True
+
+In software development, DRY (Don't Repeat Yourself) is a principle aimed at reducing repetition of code./True,False/1/True
+
+Which of the following is NOT a type of data visualization?/Histogram,Pie Chart,Decision Tree,Scatter Plot/3/Decision Tree
+
+A Docker container is a lightweight, standalone, executable package that includes everything needed to run a piece of software, including the code, runtime, libraries, and dependencies./True, False/1/True
+
+Which of the following statements about Big O notation is true?/It represents the worst-case scenario of an algorithm's time or space complexity,It represents the best-case scenario of an algorithm's time or space complexity,It represents the average-case scenario of an algorithm's time or space complexity,It represents the exact time or space taken by an algorithm/1/It represents the worst-case scenario of an algorithm's time or space complexity.
+
+A chi-square test is used to determine whether there is a significant association between two categorical variables./True,False/1/True
+
+Which of the following is NOT a type of SQL constraint?/Primary Key,Foreign Key,Unique Key,Reverse Key/4/Reverse Key
+
+Regularization is a technique used to prevent overfitting in machine learning models by adding a penalty term to the loss function./True,False/1/True
+
+Which of the following is NOT a step in the Agile software development process?/Sprint Planning,Sprint Execution,Sprint Review,Sprint Documentation/4/Sprint Documentation
+
+A confusion matrix is a table that is often used to describe the performance of a classification model./True,False/1/True
+
+
