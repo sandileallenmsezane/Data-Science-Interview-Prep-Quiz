@@ -17,7 +17,7 @@ This quiz application contains commonly asked Data Science interview questions, 
 ## How to Run
 1. Download the zip file (`codequest exe`) from the releases
 2. Prepare your question bank text file (or use our provided question sets)
-3. Start the quiz by dragging and dropping the question file onto `QuestionBank12txt.exe`
+3. Start the quiz by dragging and dropping the questionbank onto `QuizPorject.exe`
 
 ## Study Materials
 The questions in this quiz are curated to match real interview experiences from top tech companies and data-driven organizations.
