@@ -15,7 +15,7 @@ This quiz application contains commonly asked Data Science interview questions, 
 - Feature Engineering
 
 ## How to Run
-1. Download the quiz executable (`QuizProject.exe`) from the releases
+1. Download the zip file (`codequest exe`) from the releases
 2. Prepare your question bank text file (or use our provided question sets)
 3. Start the quiz by dragging and dropping the question file onto `QuestionBank12txt.exe`
 
