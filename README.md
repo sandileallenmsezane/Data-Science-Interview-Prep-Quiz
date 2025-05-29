@@ -37,3 +37,8 @@ Feel free to contribute additional questions by:
 - Time yourself to simulate interview conditions
 - Review incorrect answers to strengthen weak areas
 - Use this alongside other interview prep resources
+
+## LINK TO THE ZIP GAME FILE!!
+Sandile Allen Msezane
+- GitHub: @sandileallenmsezane(https://github.com/sandileallenmsezane/Data-Science-Interview-Prep-Quiz.git)
+- LinkedIn: Sandile Msezane(https://linkedin.com/in/sandile-msezane)
